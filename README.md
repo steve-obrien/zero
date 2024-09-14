@@ -1,6 +1,8 @@
 # zero
 Zero dependency frameworks
 
+## Rant
+
 Really it should not be required to pull in 9000 files just to show a webpage.  Even for large complex apps.
 Unused code is code that will break one day.  The maintainer will get bored and shut it down.  The company gets bought or goes in a new direction.  A security issue is discovered.
 Each dependency introduces a new future possibility of an upgrade, security or patch cycle into your code base.  One that you are not in control of.
