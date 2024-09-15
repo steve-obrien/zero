@@ -27,3 +27,32 @@ Autoloading: 1 function
 
 Future possibility:
 PHP: Node.js EventLoop - for websockets and non blocking behaviour in PHP.
+
+
+
+Zero MVC
+--------
+
+/your-project
+│
+├── /App
+│   ├── /Global
+│   │   ├── /Controllers
+│   │   ├── /Models
+│   │   └── /Views
+│   └── /TenantSpecific
+│       ├── /Tenant1
+│       │   ├── /Controllers
+│       │   ├── /Models
+│       │   └── /Views
+│       └── /Tenant2
+│           ├── /Controllers
+│           ├── /Models
+│           └── /Views
+├── /Zero
+|   └── /Mvc
+│       ├── App.php
+│       ├── Controller.php
+│       └── Model.php
+├── autoload.php
+└── index.php
