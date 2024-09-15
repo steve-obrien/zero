@@ -16,4 +16,14 @@ With AI in the loop now - it is likely faster to simply learn the specifics and 
 
 I see this with modern development, most of the task is fighting with frameworks, with dependencies, with local test setups.  Rather than the joy of tight dev cycles.
 
-I apreciate the irony of producing another library.
+The idea for this framework is you copy the whole thing.  Then pop your code inside.
+And good for educating what things are really doing.
+
+
+Interesting demos:
+-------------------
+MVC basics
+Autoloading: 1 function
+
+Future possibility:
+PHP: Node.js EventLoop - for websockets and non blocking behaviour in PHP.
