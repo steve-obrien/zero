@@ -35,9 +35,6 @@ Interesting demos:
 MVC basics
 Autoloading: 1 function
 
-Future possibility:
-PHP: Node.js EventLoop - for websockets and non blocking behaviour in PHP.
-
 
 
 Zero MVC
@@ -68,3 +65,14 @@ Zero MVC
 ├── autoload.php
 └── index.php
 ```
+
+#todo
+
+## Vue/react like
+
+A framework using browser esm modules no build step that can create a state based rendering model for javascript components
+
+## PHP: Node.js EventLoop
+
+A simple event loop showing how to do non-blocking Node.js style code in PHP.
+
