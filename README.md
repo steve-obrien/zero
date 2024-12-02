@@ -28,6 +28,7 @@ The idea for this framework is you copy the whole thing.  Then pop your code ins
 
 This is currently just an experiment - and mainly for educational purposes.
 It shows the kind of trivial tasks many frameworks are really doing.
+We all become better developers when we understand deeply the work libraries and frameworks are actually doing.
 
 
 Interesting demos:
